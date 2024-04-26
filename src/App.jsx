@@ -29,7 +29,7 @@ const siteProps = {
   email: "MuhammadGabriel.Somoal@studentambassadors.com",
   gitHub: "protoga",
   instagram: "gabrielsomoal",
-  linkedIn: "gabrielsomoal",
+  linkedIn: "gabriel-somoal",
   medium: "gabrielsomoal",
   twitter: "",
   youTube: "",
